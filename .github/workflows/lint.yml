@@ -17,8 +17,8 @@ jobs:
         with:
           install-command: yarn
       - name: Lint
-        run: yarn lint:ci
+        run: cd my-website && yarn lint:ci
       - name: Prettier Code
-        run: yarn prettier:diff
+        run: cd my-website && yarn prettier:diff
       - name: Prettier Docs
-        run: yarn prettier-docs:diff
+        run: cd my-website && yarn prettier-docs:diff
