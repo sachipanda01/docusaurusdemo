@@ -2,11 +2,11 @@
 id: contribution
 title: Contributing!
 ---
-## Contributing to DevOps Portal
+## Contributing to the DevOps Portal
 
-***We love contributions to DevOps Portal, big or small.***
+***We contributions to the DevOps Portal, big or small.***
 
-Anyone is free to suggest changes to DevOps Portal's documentation, handbook or website
+Anyone is free to suggest changes to the DevOps Portal's documentation, handbook or website
 
 There is a useful guide on [updating our docs](styleguide.md).
 
