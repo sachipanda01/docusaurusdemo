@@ -16,7 +16,7 @@ Just create a new Pull Request if you want to make an update.
 
 For now, please request Joe Bloggs _joebloggs@acme.com_ to do the QA.
 
-If you want to speak to us before doing lots of work, just email _joebloggs@macme.com_ - we're very responsive and friendly.
+If you want to speak to us before doing lots of work, just email _joebloggs@acme.com_ - we're very responsive and friendly.
 
 ## Issues
 
