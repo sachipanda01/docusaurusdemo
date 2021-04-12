@@ -16,9 +16,10 @@ jobs:
         uses: bahmutov/npm-install@v1
         with:
           install-command: yarn
+          working-directory: my-website
       - name: Lint
-        run: cd my-website && yarn lint:ci
+        run: yarn lint:ci
       - name: Prettier Code
-        run: cd my-website && yarn prettier:diff
+        run: yarn prettier:diff
       - name: Prettier Docs
-        run: cd my-website && yarn prettier-docs:diff
+        run: yarn prettier-docs:diff
