@@ -6,15 +6,15 @@ title: Style Guide
 
 A style guide is a set of standards, principles and rules every developer or designer should follow in order to improve the digital presence of the product.
 
-This document defines the standards for DevOps Portal documentation, including grammar, formatting, word use, and more
+This document defines the standards for the DevOps Portal documentation, including grammar, formatting, word use, and more
 
 ## Purpose
 
 The purpose of this document is to define unified standards and guidelines for contributors to the DevOps Portal.
 
-As a developer-focused product, DevOps Portal depends on its documentation to provide a good experience to users who wish to use our product. Thus, it is important that our Documentation is complete, concise, and well-written.
+As a developer-focused product, DevOps Portal depends on its documentation to provide a good experience to users who wish to use our product. Thus, it is important that our documentation is complete, concise, and well-written.
 
-Hence, this guide aims to provide some basic guidelines for those wishing to contribute to the Documentation.
+Hence, this guide aims to provide some basic guidelines for those wishing to contribute to the documentation.
 
 ## Guidelines
 
@@ -30,23 +30,23 @@ It is dangerous to assume that because something is obvious to you, it will also
 
 #### Use British English
 
-DevOps Portal will accessed acrros ACME DevOps world, As a result, to keep our communication consistent, we use British spelling for our Documentation.
+DevOps Portal will be accessed globally, as a result, to keep our communication consistent, we use British spelling for our documentation.
 
 #### Use the Oxford comma for lists
 
 Example: Write "bananas, apples, and oranges", not "bananas, apples and oranges".
 
-#### Capitalize the names of tools, protocols, and technologies
+#### Capitalise the names of tools, protocols, and technologies
 
 Example: Write "Redis server", not "redis server".
 
-#### Capitalize acronyms
+#### Capitalise acronyms
 
 Example: Write "URLs", not "urls".
 
 On another note, try to avoid acronyms unless they're so common that it's weird not to. For example, Hyper Text Transfer Protocol is a weird way to say HTTP.
 
-#### Capitalize every word in a title (except for prepositions)
+#### Capitalise every word in a title (except for prepositions)
 
 Example: Write "Documentation Style Guide" instead of "Documentation style guide".
 
@@ -84,14 +84,14 @@ If you use an image that has a separate source file (for example, a vector or di
 
 #### Topic types
 
-In the software industry, it is a best practice to organize documentation in different types. For example:
+In the software industry, it is a best practice to organise documentation in different types. For example:
 
 `Concepts`
 `Tasks`
 `Reference`
 `Troubleshooting`
 
-Each page should contains multiple topic types. For example, a page with the title Pipelines, which is generated from a file called index.md, can include a concept and multiple task and reference topics.
+Each page should contain multiple topic types. For example, a page with the title Pipelines, which is generated from a file called index.md, can include a concept and multiple task and reference topics.
 
 #### Work with directories and files
 
@@ -101,11 +101,11 @@ When working with directories and files:
 
 2. Do not use special characters and spaces, or capital letters in file names, directory names, branch names, and anything that generates a path.
 
-3. When creating or renaming a file or directory and it has more than one word in its name, use underscores (_) instead of spaces or dashes. For example, proper naming would be import_project/import_from_github.md. This applies to both image files and Markdown files.
+3. When creating or renaming a file or directory and it has more than one word in its name, use underscores (_) instead of spaces or dashes. For example, proper naming would be import_project/import_from_github.md. This applies to both image files and markdown files.
 
 4. For image files, do not exceed 100KB.
 
-5. Do not upload video files to the product repositories. Link or embed videos instead.
+5. Do not upload video files to the product repositories. link or embed videos instead.
 
 6. There are four main directories: `user`, `administration`, `api`, and `development`.
 
