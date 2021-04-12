@@ -13,6 +13,7 @@ module.exports = {
         'styleguide',
         'contribution',
         'project-structure',
+        'developing-locally',
       ],
     },
   ],
